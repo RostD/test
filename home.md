@@ -3,6 +3,14 @@
 
 # Header
 
+```
+var sample = 'code';
+
+on.multiple(lines) {
+    cool();
+}
+```
+
 Here is a footnote reference,[^1] and another.[^longnote]
 
 [^1]: Here is the footnote.
